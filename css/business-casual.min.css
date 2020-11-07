@@ -6,7 +6,7 @@
 body {
   font-family: Lora;
   background-image: linear-gradient(
-      rgba(255, 255, 255, 0.5),
+      rgba(133, 133, 133, 0.53),
       rgba(97, 97, 97, 0.7)
     ),
     url(../img/bg.jpg);
